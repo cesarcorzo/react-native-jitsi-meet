@@ -45,7 +45,7 @@ repositories {
 }
 
 dependencies {
-  implementation ('org.jitsi.react:jitsi-meet-sdk:2.+') {
+  implementation ('org.jitsi.react:jitsi-meet-sdk:2.9.+') {
     exclude group: 'com.facebook.react', module:'react-native-vector-icons'
     exclude group: 'com.facebook.react', module:'react-native-webview'
     exclude group: 'com.facebook.react', module:'react-native-youtube'
