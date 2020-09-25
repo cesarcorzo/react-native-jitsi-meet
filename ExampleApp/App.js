@@ -5,9 +5,9 @@ function App() {
 
   useEffect(() => {
     setTimeout(() => {
-      const url = 'https://meet.jit.si/exemple';
+      const url = 'https://deltabridge.live/mod7';
       const userInfo = {
-        displayName: 'User',
+        displayName: 'mobuser',
         email: 'user@example.com',
         avatar: 'https:/gravatar.com/avatar/abc123',
       };
